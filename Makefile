@@ -1,6 +1,5 @@
-SRC = unity/unity.c\
-src/PRIME.c\
-te
+SRC = src/PRIME.c\
+
 main.c
 
 INC = -Iunity\
