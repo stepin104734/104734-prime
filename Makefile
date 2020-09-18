@@ -1,5 +1,5 @@
 SRC = unity/unity.c\
-src/prime.c\
+src/PRIME.c\
 te
 main.c
 
